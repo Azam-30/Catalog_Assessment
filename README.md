@@ -62,10 +62,11 @@ json
 
 For the given input files, the script will output:
 
+
+
+
+```
 Processing test case: input_case1.json
 The secret constant (c) is: 3
 Processing test case: input_case2.json
 The secret constant (c) is: 79836264046592
-
-
-```
