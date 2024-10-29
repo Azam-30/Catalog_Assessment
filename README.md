@@ -31,9 +31,10 @@ node index.js
 ## Input JSON Format
 
 The input JSON should follow this structure:
-```
+
 *input.json*
 json
+```
 {
   "keys": {
     "n": 4,
